@@ -28,5 +28,22 @@
 	turn it into a new commit.</li>
 	<li>Git reset is a complex command with multiple ways of execution, these being "--hard", <br>
 	"--mixed" and "--soft", with each state's function based on git's management system. </li>
-	<li> </li>
+	<li>Git revert can be seen as it's version of something like ctrl z, but instead of flat out removing<br>
+	the changes it figures out a way to undo the changes from the last commit in the project's history.<br>
+	Git reset on the other hand is more complex yet versatile, with it's three forms of use, and although <br> 
+	it has three forms of use it is considered to be more dangerous to use when compared to git reset.</li>
+	<li>False.</li>
+	<li>True.</li>
+	<li>DevOps is a software development cycle that combines both development and operations in in the<br>
+	 effort to get an increase in the efficiency, speed and security of the software being developed. This <br>
+	 makes it a more nimble approach to a software development cycle when compared to others as a result.</li>
+	<li>Github, makes it quicker and easier to code and upload code to a database for a software, this also<br>
+	helps quicken the pace at which others access it.<br>
+	Jira Software can help with planning the project as it has multiple features that can be utilised as <br>
+	dedicated planning tools.<br>
+	GetFeedback can be used to allow consumers to give feedback about the product which can be used to help<br>
+	with improving the software.</li>
+	<li>CI/CD is short for continuous integration and continuous deployment/delivery, this cycle aims to <br>
+	accelerate the development cycle with continuous integration meaning frequently integrating code into<br>
+	a shared repo while continuous deployment/delivery means frequent releases.</li>
 </ol>
