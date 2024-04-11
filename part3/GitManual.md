@@ -36,3 +36,11 @@
 	<li>Branches should be named according to what they are, for experimental branches they should be named after what is being experimented with.</li>
 	<li>Limit branches to the people inside the project and who are affiliated to it, don't allow access someone who isn't affiliated with it.</li>
 </lo>
+
+## Git Workflow Teams Steps
+<lo>
+	<li>Create a repo on github</li>
+	<li>Add the team as collaborators and manage their access accordingly</li>
+	<li>Setup the repo, creating branches, initial commit, etc</li>
+	<li>Start coding and use the techniques above to help!</li>
+</lo>
